@@ -1,0 +1,7 @@
+Hello everyone,
+
+I hope you are having fun learning git!!!
+
+
+Greetings,
+Akshay
